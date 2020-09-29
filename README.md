@@ -1,16 +1,11 @@
-# Secure-the-Village-PUN2
+# war in village
 
-Secure the Village is a multiplayer game. I built it using unity and Photon PUN2.
+war in village là trò chơi đa người chơi sử dụng unity và photon 2
+Đó là một trò chơi bắn súng 2d từ trên xuống. Nhân vật của bạn sẽ theo vị trí chuột của bạn.
+Trò chơi có một kịch bản trận đấu tử thần nên ai có 10 mạng sẽ thắng trận đấu.
+Đồng thời sau mỗi 40 giây, tăng máu và bom sẽ xuất hiện trong bản đồ với vị trí ngẫu nhiên.
+Vì vậy nếu người chơi lao vào va chạm với tăng máu thì sẽ tăng máu nhưng nếu người chơi vào va chạm với bom sẽ khiến nó chết.
+Vì vậy, người chơi phải cẩn thận trong khi chiến đấu với nhau. Bất cứ khi nào người chơi chết, nó sẽ hồi sinh sau 10 giây.
 
-Actually this game built for my course project whose name network programming in computer games.
-
-It's a 2d top-down shooting game. Your character will follow your mouse position. 
-
-The game has a deathmatch scenario so whose got 10 kills, will win the match. 
-At the same time in every 40 seconds, health boost and the bomb will be spawned in the map with the random position. 
-So if the player enters a collision with a health boost, it will increase its health but if the player enters a collision with a bomb, it will cause it to die. 
-So players have to be careful while fighting each other. Whenever a player dies, it will respawn in 10 seconds.
-
-As I said, at the end whose got 10 kills, will go to win screen,others will go to lose screen.
-After win and lose screen, the game will automatically take players to the main screen in 10 seconds.
-
+Như tôi đã nói, cuối cùng ai có 10 mạng sẽ đến màn thắng, những người khác sẽ đến màn thua.
+Sau màn phân thắng bại, game sẽ tự động đưa người chơi về màn hình chính sau 10 giây.
